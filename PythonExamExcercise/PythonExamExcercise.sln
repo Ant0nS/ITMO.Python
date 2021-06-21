@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonExamExcercise", "PythonExamExcercise\PythonExamExcercise.pyproj", "{DE2913F8-C0AC-493E-8B05-E22706CC3E8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE2913F8-C0AC-493E-8B05-E22706CC3E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2913F8-C0AC-493E-8B05-E22706CC3E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54EE9264-9FB0-4E5A-A5C1-F268B922C815}
+	EndGlobalSection
+EndGlobal
